@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1090546902511",
+    "project_id": "ai-app-survey",
+    "storage_bucket": "ai-app-survey.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090546902511:android:6cddb4090790e91b9d421a",
+        "android_client_info": {
+          "package_name": "com.abthedev.aigesturesurvey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXk5d1kJiCRrUHPWx_luyUruJ-nbvl58M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090546902511:android:b9a8169f038c97729d421a",
+        "android_client_info": {
+          "package_name": "com.abthedev.gestureapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXk5d1kJiCRrUHPWx_luyUruJ-nbvl58M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090546902511:android:4dc656b6ade8b18c9d421a",
+        "android_client_info": {
+          "package_name": "com.abthedev.gestureapp.gesture_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXk5d1kJiCRrUHPWx_luyUruJ-nbvl58M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
