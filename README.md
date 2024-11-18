@@ -1,25 +1,92 @@
-# Hand Gesture Detection on Hagrid 150k Dataset
+# Hand Gesture Recognition System and Survey Application
 
-Author: Abhik Ghosh
+Image classification is a fundamental task in computer vision with applications spanning autonomous vehicles, healthcare, and security systems. The development of deep learning models, particularly Convolutional Neural Networks (CNNs), has significantly improved classification accuracy. This report discusses an image classification project using a CNN architecture on the Hagrid 150k dataset, exploring existing research and external findings to contextualize and validate the approach.
 
-This project is focused on image classification using the Hagrid dataset. The goal is to develop a hand gesture detection model that can accurately classify different hand gestures and compare multiple model architecture to find the perfect balance between complexcity and accuracy.
+This purpose of this project is to compare custom classification CNN architecture with standard models used for most research applications in this field and utilize a mobile app-based survey to find the perfect balance between complexity and accuracy for gesture recognition.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Preprocessing](#preprocessing)
-- [Model Architecture](#model-architecture)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Results](#results)
-- [Conclusion](#conclusion)
+- [Usage](#usage)
+- [Application](#application)
+  - [Screenshots](#screenshots)
+  - [Installation](#installation)
+  - [Contribute](#contribute)
+  - [LICENSE](#license)
+- [Model Training](#training)
+  - [Dataset](#dataset)
+  - [Preprocessing](#preprocessing)
+  - [Model Architecture](#model-architecture)
+  - [Training](#training)
+  - [Evaluation](#evaluation)
+  - [Results](#results)
+  - [Conclusion](#conclusion)
 - [Future Work](#future-work)
 - [References](#references)
 
 ## Introduction
 
-Hand gesture recognition is a crucial aspect of human-computer interaction. This project aims to build a robust model to classify hand gestures using the Hagrid dataset.
+Hand gesture recognition is a crucial aspect of human-computer interaction. This project aims to build and test multiple model to classify hand gestures using the Hagrid dataset and determine the most practical model through mass survey.
+
+## Usage
+
+- Train Model Locally
+
+    1. Prerequisits
+
+    ```python
+    pip install tensorflow kaggle matplotlib PIL
+    ```
+
+    2. Run and execute all the cells of the .ipynb file.
+
+
+
+- Build Mobile App Locally
+
+    1. Prerequisits
+
+    ```dart
+    Flutter:3.5.3
+    ```
+
+    2. Building the app
+
+    To run
+
+    ```cmd
+    git clone https://github.com/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application.git
+    cd Hand-Gesture-Recognition-System-And-Survey-Application
+    cd Gesture App/gestureapp
+    flutter run
+    ```
+
+
+
+
+
+# Application
+
+![ICON](https://github.com/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application/blob/main/icon.png?raw=true)
+
+A Companion Survey App to run and test and aquire feedback for evaluating Model Performance.
+
+![Built in Flutter](https://img.shields.io/badge/Built%20in-Flutter-%23369FE7)
+
+[![Hits-of-Code](https://hitsofcode.com/github/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application?branch=main)](https://hitsofcode.com/github/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application/view?branch=main)
+
+## screenshots
+
+## installation
+
+## contribute
+
+## license
+
+
+
+
+# Training
 
 ## Dataset
 
@@ -72,7 +139,7 @@ The model used in this project is a Convolutional Neural Network (CNN) designed 
 - Dropout(0.5)
 - Dense(num_classes, activation='softmax', name="outputs")
 
-## Training
+## Model Training
 
 The model was trained using the following parameters:
 
@@ -138,6 +205,9 @@ Future improvements could include:
 - Expanding the dataset with more diverse gestures
 - Implementing mobile app based survey to allow user review for model performance
 - Enhancing the model architectures for better performance
+
+- Add the ability to test user made model on the mobile app
+- User Customizable Surveys
 
 ## References
 
