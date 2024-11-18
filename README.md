@@ -68,9 +68,6 @@ Hand gesture recognition is a crucial aspect of human-computer interaction. This
 # Application
 
 ![ICON](https://github.com/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application/blob/main/icon.png?raw=true)
-<p>
-<img src="https://github.com/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application/blob/main/icon.png?raw=true" alt="icon" width="200" height="200/>
-</p>
 
 A Companion Survey App to run and test and aquire feedback for evaluating Model Performance.
 
@@ -78,15 +75,25 @@ A Companion Survey App to run and test and aquire feedback for evaluating Model 
 
 [![Hits-of-Code](https://hitsofcode.com/github/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application?branch=main)](https://hitsofcode.com/github/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application/view?branch=main)
 
-## screenshots
-
-## installation
-
-## contribute
-
-## license
+## Screenshots
 
 
+
+## Installation
+
+Download .apk file from releases 
+
+[Releases](https://github.com/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application/releases/)
+
+## Contribute
+
+- Fork it and make it your own
+- Improve the application and add to the repo
+- Dont forget to star the repo
+
+## License
+
+![GitHub License](https://img.shields.io/github/license/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application)
 
 
 # Training
