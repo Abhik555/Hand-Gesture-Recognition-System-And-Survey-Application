@@ -68,6 +68,7 @@ Hand gesture recognition is a crucial aspect of human-computer interaction. This
 # Application
 
 ![ICON](https://github.com/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application/blob/main/icon.png?raw=true)
+<img src="![drawing.jpg](https://github.com/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application/blob/main/icon.png?raw=true)" alt="icon" width="200" height="200/>
 
 A Companion Survey App to run and test and aquire feedback for evaluating Model Performance.
 
