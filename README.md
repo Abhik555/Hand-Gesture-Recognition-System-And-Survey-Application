@@ -34,36 +34,36 @@ Hand gesture recognition is a crucial aspect of human-computer interaction. This
 
 - Train Model Locally
 
-    1. Prerequisits
+  - Prerequisits
 
-    ```python
-    pip install tensorflow kaggle matplotlib PIL
-    ```
+  ```python
+  pip install tensorflow kaggle matplotlib PIL
+  ```
 
-    2. Run and execute all the cells of the .ipynb file.
+  - Run and execute all the cells of the .ipynb file.
 
 
 
 - Build Mobile App Locally
 
-    1. Prerequisits
+  - Prerequisits
 
 
 
-    ```dart
-    Flutter:3.5.3
-    ```
+  ```dart
+  Flutter:3.5.3
+  ```
 
-    2. Building the app
+  - Building the app
 
 
 
-    ```cmd
-    git clone https://github.com/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application.git
-    cd Hand-Gesture-Recognition-System-And-Survey-Application
-    cd Gesture App/gestureapp
-    flutter run
-    ```
+  ```cmd
+  git clone https://github.com/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application.git
+  cd Hand-Gesture-Recognition-System-And-Survey-Application
+  cd Gesture App/gestureapp
+  flutter run
+  ```
 
 
 
@@ -79,14 +79,16 @@ A Companion Survey App to run and test and aquire feedback for evaluating Model 
 
 [![Hits-of-Code](https://hitsofcode.com/github/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application?branch=main)](https://hitsofcode.com/github/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application/view?branch=main)
 
-![](https://tokei.rs/b1/github/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application)
+![Lines of Code](https://tokei.rs/b1/github/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application)
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application/total)
 
 
 ## Screenshots
 
-
+![SHOT1](https://github.com/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application/blob/main/screenshots/pic1.jpg?raw=true)
+![SHOT1](https://github.com/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application/blob/main/screenshots/pic2.jpg?raw=true)
+![SHOT1](https://github.com/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application/blob/main/screenshots/pic3.jpg?raw=true)
 
 ## Installation
 
