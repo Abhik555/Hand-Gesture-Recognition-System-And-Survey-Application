@@ -4,6 +4,8 @@ Image classification is a fundamental task in computer vision with applications 
 
 This purpose of this project is to compare custom classification CNN architecture with standard models used for most research applications in this field and utilize a mobile app-based survey to find the perfect balance between complexity and accuracy for gesture recognition.
 
+![GitHub Repo stars](https://img.shields.io/github/stars/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -46,13 +48,15 @@ Hand gesture recognition is a crucial aspect of human-computer interaction. This
 
     1. Prerequisits
 
+
+
     ```dart
     Flutter:3.5.3
     ```
 
     2. Building the app
 
-    To run
+
 
     ```cmd
     git clone https://github.com/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application.git
@@ -75,13 +79,18 @@ A Companion Survey App to run and test and aquire feedback for evaluating Model 
 
 [![Hits-of-Code](https://hitsofcode.com/github/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application?branch=main)](https://hitsofcode.com/github/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application/view?branch=main)
 
+![](https://tokei.rs/b1/github/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application)
+
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application/total)
+
+
 ## Screenshots
 
 
 
 ## Installation
 
-Download .apk file from releases 
+Download .apk file from releases
 
 [Releases](https://github.com/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application/releases/)
 
@@ -164,7 +173,7 @@ The model was evaluated using a separate validation set. The performance metrics
 
 ## Results
 
-The final model achieved the following results on the validation set:
+The final model achieved the following results on the validation set
 
 ### Simple CNN Metrics
 
