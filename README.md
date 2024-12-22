@@ -1,3 +1,5 @@
+![ICON](https://github.com/Abhik555/Hand-Gesture-Recognition-System-And-Survey-Application/blob/main/icon.png?raw=true)
+
 # Hand Gesture Recognition System and Survey Application
 
 Image classification is a fundamental task in computer vision with applications spanning autonomous vehicles, healthcare, and security systems. The development of deep learning models, particularly Convolutional Neural Networks (CNNs), has significantly improved classification accuracy. This report discusses an image classification project using a CNN architecture on the Hagrid 150k dataset, exploring existing research and external findings to contextualize and validate the approach.
